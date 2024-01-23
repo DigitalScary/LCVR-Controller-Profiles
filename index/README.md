@@ -9,7 +9,7 @@
 |       Jump       | Space            | A                 |                                                                   |
 |      Sprint      | Shift            | (Disabled)        | Taken over by the mod, check `VR Inputs` below                    |
 |     OpenMenu     | Escape, Tab      | X                 |                                                                   |
-|     Interact     | E                | (Disabled)        | Taken over by the mod, check `VR Inputs` below                    |
+|     Interact     | E                | Right trigger      | To fix issues with flashlight not working                        |
 |      Crouch      | Ctrl             | R Joystick Button |                                                                   |
 |       Use        | LMB              | Right trigger     |                                                                   |
 |   ActivateItem   | LMB              | Right trigger     |                                                                   |
